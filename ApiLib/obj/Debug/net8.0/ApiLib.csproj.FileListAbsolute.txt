@@ -1,0 +1,11 @@
+/home/kronborg/repos/temp/test-host/ApiLib/bin/Debug/net8.0/ApiLib.deps.json
+/home/kronborg/repos/temp/test-host/ApiLib/bin/Debug/net8.0/ApiLib.dll
+/home/kronborg/repos/temp/test-host/ApiLib/bin/Debug/net8.0/ApiLib.pdb
+/home/kronborg/repos/temp/test-host/ApiLib/obj/Debug/net8.0/ApiLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/kronborg/repos/temp/test-host/ApiLib/obj/Debug/net8.0/ApiLib.AssemblyInfoInputs.cache
+/home/kronborg/repos/temp/test-host/ApiLib/obj/Debug/net8.0/ApiLib.AssemblyInfo.cs
+/home/kronborg/repos/temp/test-host/ApiLib/obj/Debug/net8.0/ApiLib.csproj.CoreCompileInputs.cache
+/home/kronborg/repos/temp/test-host/ApiLib/obj/Debug/net8.0/ApiLib.dll
+/home/kronborg/repos/temp/test-host/ApiLib/obj/Debug/net8.0/refint/ApiLib.dll
+/home/kronborg/repos/temp/test-host/ApiLib/obj/Debug/net8.0/ApiLib.pdb
+/home/kronborg/repos/temp/test-host/ApiLib/obj/Debug/net8.0/ref/ApiLib.dll
